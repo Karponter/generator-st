@@ -1,4 +1,4 @@
-# generator-st [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-st [![NPM version][npm-image]][npm-url]
 > Sublime text project scaffolding servant
 
 ## Installation
@@ -16,6 +16,28 @@ Then generate your new project:
 yo st
 ```
 
+## Features
+
+Creates a basic Sublime Text project.
+
+#### User prompts:
+
+* Project name
+* Licence
+* SCM provider
+* SCM remore repository
+
+#### Sugar
+
+Setting up default remote repository for any supported SCM providers, so if you want to push somethins into yout git repository -- just type `git push` in a console.
+
+#### SCM support
+
+* Any Git repository
+* Any Mercurial repository
+
+>Assume, you allready have your desired repository installed in your environment.
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
@@ -30,9 +52,3 @@ MIT © [Vlad Dotsenko](SOMEURL)
 
 [npm-image]: https://badge.fury.io/js/generator-st.svg
 [npm-url]: https://npmjs.org/package/generator-st
-[travis-image]: https://travis-ci.org/karponter/generator-st.svg?branch=master
-[travis-url]: https://travis-ci.org/karponter/generator-st
-[daviddm-image]: https://david-dm.org/karponter/generator-st.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/karponter/generator-st
-[coveralls-image]: https://coveralls.io/repos/karponter/generator-st/badge.svg
-[coveralls-url]: https://coveralls.io/r/karponter/generator-st

@@ -28,11 +28,11 @@ yo st
 MIT © [Vlad Dotsenko](SOMEURL)
 
 
-[npm-image]: https://badge.fury.io/js/generator-st-up.svg
-[npm-url]: https://npmjs.org/package/generator-st-up
-[travis-image]: https://travis-ci.org/karponter/generator-st-up.svg?branch=master
-[travis-url]: https://travis-ci.org/karponter/generator-st-up
-[daviddm-image]: https://david-dm.org/karponter/generator-st-up.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/karponter/generator-st-up
-[coveralls-image]: https://coveralls.io/repos/karponter/generator-st-up/badge.svg
-[coveralls-url]: https://coveralls.io/r/karponter/generator-st-up
+[npm-image]: https://badge.fury.io/js/generator-st.svg
+[npm-url]: https://npmjs.org/package/generator-st
+[travis-image]: https://travis-ci.org/karponter/generator-st.svg?branch=master
+[travis-url]: https://travis-ci.org/karponter/generator-st
+[daviddm-image]: https://david-dm.org/karponter/generator-st.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/karponter/generator-st
+[coveralls-image]: https://coveralls.io/repos/karponter/generator-st/badge.svg
+[coveralls-url]: https://coveralls.io/r/karponter/generator-st

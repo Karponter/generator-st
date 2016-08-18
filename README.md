@@ -25,11 +25,11 @@ Creates a basic Sublime Text project.
 * Project name
 * Licence
 * SCM provider
-* SCM remore repository
+* SCM remote repository
 
 #### Sugar
 
-Setting up default remote repository for any supported SCM providers, so if you want to push somethins into yout git repository -- just type `git push` in a console.
+Setting up default remote repository for any supported SCM providers, so if you want to push something into yout git repository -- just type `git push` in a console.
 
 #### SCM support
 
